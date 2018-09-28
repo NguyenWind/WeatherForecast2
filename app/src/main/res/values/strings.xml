@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="WEATHER_API_KEY">a88e0b03bbc0d4c599ed9bb3ff8b6d47</string>
+    <string name="MapAPI_KEY">AIzaSyBwHCQYluaPnvLtc_Fl7OmhBZ7KvqrUVYI</string>
+</resources>
